@@ -1,5 +1,3 @@
-# Modelo
-
 ## Sobre o Projeto
 
 Este repositório contém um modelo de página simples feito com **HTML** e **CSS**.
